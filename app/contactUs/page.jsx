@@ -87,7 +87,7 @@ export default function Home() {
             </div>
 
             {/* Contact Form */}
-            <form onSubmit={onSubmit} className="bg-red-800 bg-opacity-90 rounded-lg p-8 shadow-lg w-full max-w-lg mx-4 mt-36">
+            <form onSubmit={onSubmit} className="bg-red-800 bg-opacity-90 rounded-lg p-8 shadow-lg w-full max-w-lg mx-4 mt-44">
               <h2 className="text-white text-xl mb-1 font-medium title-font">Contact Us</h2>
               <p className="leading-relaxed mb-5 text-white">Please fill up the form below to send us a message</p>
 
